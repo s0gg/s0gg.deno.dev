@@ -1,11 +1,17 @@
-import { useSignal } from "@preact/signals";
-import Counter from "../islands/Counter.tsx";
-
 export default function Home() {
-  const count = useSignal(3);
   return (
-    <div class="px-4 py-8 mx-auto">
-      <h1>s0gg</h1>
-    </div>
+    <>
+      <header>
+        <h1>s0gg</h1>
+      </header>
+      <main class="px-4 py-8 mx-auto">
+        <section>
+          <h2>Links</h2>
+          <ul>
+            <li>GitHub: <a href="https://github.com/s0gg" target="_blank">s0gg</a></li>
+          </ul>
+        </section>
+      </main>
+    </>
   );
 }
