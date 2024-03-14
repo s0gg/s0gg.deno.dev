@@ -9,6 +9,7 @@ export default function Home() {
           <h2>Links</h2>
           <ul>
             <li>GitHub: <a href="https://github.com/s0gg" target="_blank">s0gg</a></li>
+            <li>Blog: <a href="/posts">/posts</a></li>
           </ul>
         </section>
       </main>
