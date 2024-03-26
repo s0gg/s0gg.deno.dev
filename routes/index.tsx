@@ -12,6 +12,15 @@ export default function Home() {
             <li>Blog: <a href="/posts">/posts</a></li>
           </ul>
         </section>
+        <section>
+          <h2>Works</h2>
+          <ul>
+            <li>
+              This website: <a href="https://s0gg.deno.dev" target="_blank">s0gg</a>
+              (repository: <a href="https://github.com/s0gg/s0gg.deno.dev" target="_blank">s0gg.deno.dev</a>)
+            </li>
+          </ul>
+        </section>
       </main>
     </>
   );
