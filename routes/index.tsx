@@ -12,6 +12,12 @@ export default function Home() {
             <li>Blog: <a href="/posts">/posts</a></li>
           </ul>
         </section>
+        <section>
+          <h2>Works</h2>
+          <ul>
+            <li>This website: <a href="https://s0gg.net">s0gg.net</a></li>
+          </ul>
+        </section>
       </main>
     </>
   );
