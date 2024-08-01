@@ -19,6 +19,10 @@ export default function Home() {
             <section>
               <p>Likes: Rust, Lisp, CTF, Neovim, Emacs</p>
             </section>
+            <section>
+              <p>For you</p>
+              <a href="https://gist.github.com/s0gg/963abd7df7ec9443a37f578f14140256">Gist: change google slides master font.</a>
+            </section>
           </main>
         </div>
       </div>
